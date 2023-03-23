@@ -42,7 +42,7 @@ ___________________________________________________________
 Результат запуска:
 <pre>
 Успешно подобрано 1 УЗ:
-postgres postgre</pre>
+postgres postgre
 
 Ошибки при попытке подключения:
 Ошибка подключения к БД postgres с login и pass: login1/password1
@@ -52,4 +52,4 @@ postgres postgre</pre>
 Ошибка подключения к БД postgres с login и pass: login3/password3
 
 Время выполнения скрипта: 0.22508740425109863 секунд
-
+</pre>
