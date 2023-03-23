@@ -40,8 +40,7 @@ ___________________________________________________________
 <code>python postgresql_bruteforce.py -h localhost -c pass.txt</code>
   
 Результат запуска:
-<code>
-Успешно подобрано 1 УЗ:
+<code>Успешно подобрано 1 УЗ:
 postgres postgre
 
 Ошибки при попытке подключения:
