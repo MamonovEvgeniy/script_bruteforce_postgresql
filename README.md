@@ -21,9 +21,9 @@ postgresql_bruteforce.py -h 192.168.0.22 -p 5432 –с path/to/file
 
 В файле с данными для перебора, логины и пароли должны быть указаны через пробел по одной паре на каждой строке:
 
-<login> <pass>\n
+\\<login> <pass>\n
 
-<login> <pass>\n
+\\<login> <pass>\n
 
 …
 
