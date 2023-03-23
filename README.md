@@ -37,10 +37,10 @@ ___________________________________________________________
 
 Пример запуска:
 
-python postgresql_bruteforce.py -h localhost -c pass.txt
+<code>python postgresql_bruteforce.py -h localhost -c pass.txt</code>
   
 Результат запуска:
-
+<code>
 Успешно подобрано 1 УЗ:
 postgres postgre
 
@@ -51,5 +51,5 @@ postgres postgre
 
 Ошибка подключения к БД postgres с login и pass: login3/password3
 
-Время выполнения скрипта: 0.22508740425109863 секунд
+Время выполнения скрипта: 0.22508740425109863 секунд</code>
 
