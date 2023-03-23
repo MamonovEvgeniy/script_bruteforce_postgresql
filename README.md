@@ -40,9 +40,9 @@ ___________________________________________________________
 <code>python postgresql_bruteforce.py -h localhost -c pass.txt</code>
   
 Результат запуска:
-
+<pre>
 Успешно подобрано 1 УЗ:
-postgres postgre
+postgres postgre</pre>
 
 Ошибки при попытке подключения:
 Ошибка подключения к БД postgres с login и pass: login1/password1
