@@ -20,12 +20,12 @@ postgresql_bruteforce.py -h 192.168.0.22 -p 5432 –с path/to/file
 
 В файле с данными для перебора, логины и пароли должны быть указаны через пробел по одной паре на каждой строке:
 
-<login> <pass>\n
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F74229&width=435&lines=%3Clogin%3E+%3Cpass%3E%5Cn)](https://git.io/typing-svg)
 
-<login> <pass>\n
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F74229&width=435&lines=%3Clogin%3E+%3Cpass%3E%5Cn)](https://git.io/typing-svg)
 
-…
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74229&width=435&lines=%3Clogin%3E+%3Cpass%3E%5Cn;+%3Clogin%3E+%3Cpass%3E%5Cn+;%E2%80%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F74229&width=435&lines=...)](https://git.io/typing-svg)
+
 
 Результат выполнения скрипта выводится в консоль и содержит следующее:
 
