@@ -8,7 +8,7 @@ ___________________________________________________________
 
 Скрипт запускатеся из консоли следующим образом:
 
-postgresql_bruteforce.py -h 192.168.0.22 -p 5432 –с path/to/file
+<code>postgresql_bruteforce.py -h 192.168.0.22 -p 5432 –с path/to/file</code>
 
 где:
 
